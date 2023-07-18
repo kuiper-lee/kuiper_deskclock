@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DeskClock.iml" filepath="$PROJECT_DIR$/DeskClock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Deskclock.iml" filepath="$PROJECT_DIR$/.idea/modules/Deskclock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Deskclock.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Deskclock.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Deskclock.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Deskclock.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Deskclock.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Deskclock.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Deskclock.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Deskclock.app.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
